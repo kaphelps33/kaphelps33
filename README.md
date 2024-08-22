@@ -24,10 +24,6 @@ I am a computer science major and a pre-medical student—kind of a weird combin
 
 This project allows students to plan their schedules and ensure that they can comfortably walk between classes.
 
-[2D Ray Marching](https://github.com/kaphelps33/2D-Ray-Marching)
-
-This project uses iteration to determine the distance between a point and several objects in a plane, change angle-of-view and position via mouse input, and modify graphics/shapes in a plane.
-
 ## Goals and Objectives
 - **Short-term:** Finish out my senior year on a high note and get a 515+ on my MCAT!
 - **Long-term:** Attend Duke for medical school and help the world be a better place!
